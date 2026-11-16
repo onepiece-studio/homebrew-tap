@@ -1,6 +1,6 @@
 cask "luan" do
-  version "0.1.0,165"
-  sha256 "20685b05d87d02e18ec65cf442afa9f13ae4c29830c727fba510f607cc2ae0b1"
+  version "0.1.0,166"
+  sha256 "a3686294ed36e801918c6a6e6b0a71870da97a72301ce958081a8b557a35b3d2"
 
   url "https://github.com/onepiece-studio/Luan-macOS/releases/download/v#{version.csv.first}-build.#{version.csv.second}/Luan-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Luan"
